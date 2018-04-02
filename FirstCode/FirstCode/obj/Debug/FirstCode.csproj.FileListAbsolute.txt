@@ -1,0 +1,7 @@
+E:\CSHARP LEVEL1\FirstCode\FirstCode\bin\Debug\FirstCode.exe.config
+E:\CSHARP LEVEL1\FirstCode\FirstCode\bin\Debug\FirstCode.exe
+E:\CSHARP LEVEL1\FirstCode\FirstCode\bin\Debug\FirstCode.pdb
+E:\CSHARP LEVEL1\FirstCode\FirstCode\obj\Debug\FirstCode.csprojResolveAssemblyReference.cache
+E:\CSHARP LEVEL1\FirstCode\FirstCode\obj\Debug\FirstCode.csproj.CoreCompileInputs.cache
+E:\CSHARP LEVEL1\FirstCode\FirstCode\obj\Debug\FirstCode.exe
+E:\CSHARP LEVEL1\FirstCode\FirstCode\obj\Debug\FirstCode.pdb
